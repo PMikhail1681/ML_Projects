@@ -3,7 +3,7 @@ This repository contains my projects and works on Data Analytics and ML.
 Этот репозиторий содержит мои проекты и работы по Анализу данных и ML.
 
 ## Content/Содержание:
-- **Movie_ratings_aggregator_analytics**/Аналитика агрегатора рейтингов фильмов
+1. **Movie_ratings_aggregator_analytics**/Аналитика агрегатора рейтингов фильмов
 - **Predicting_McDonald's_market_capitalization**/Прогнозирование рыночной капитализации McDonald's
 - **Walmart_Weekly_Revenue_Prediction**/Прогноз еженедельного дохода Walmart
 - **Youth_Tobacco_Consumption_Analysis_(USA)**/Анализ потребления табака молодежью (США)
