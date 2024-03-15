@@ -1,6 +1,6 @@
 This repository contains my projects and works on Data Analytics and ML on the Kaggle platform.
 
-Этот репозиторий содержит мои проекты и работы по Анализу данных и ML на платформе Kaggle.
+Этот репозиторий содержит мои проекты и работы по Анализу данных и ML на платформе [Kaggle](https://www.kaggle.com/mikhail1681/code).
 ___
 ### Content/Содержание:
 1. Movie_ratings_aggregator_analytics / Аналитика агрегатора рейтингов фильмов
