@@ -1,4 +1,4 @@
-## Репозиторий pet-проектов
+## Pet-project repository/Репозиторий pet-проектов
 ![02a_machine_learning](https://github.com/PMikhail1681/PET_Projects/assets/136488242/6aba5b46-6f98-452d-a788-b7c4133e7d66)
 ### Content/Содержание:
 1. Movie_ratings_aggregator_analytics / Аналитика агрегатора рейтингов фильмов
