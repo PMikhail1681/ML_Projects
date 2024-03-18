@@ -1,2 +1,12 @@
+## Movie ratings aggregator analytics
+## Аналитика агрегатора рейтингов фильмов
 
-![1619602660_3-phonoteka_org-p-kinematograf-fon-3-700x433](https://github.com/PMikhail1681/PET_Projects/assets/136488242/ca4866bc-7b89-4906-b57c-0931c591076e)
+The project is a test in Data Visualization for the training course 'Machine Learning in Python: A Great Course for Beginners'. Link to data 'Be Suspicious Of Online Movie Ratings'.
+
+Проект является контрольным по Визуализации Данных учебного курса 'Машинное Обучение в Python: Большой Курс для Начинающих'. Ссылка на данные 'Be Suspicious Of Online Movie Ratings'.
+
+The goal of the project is to study data based on an article by Fivethirtyeight.com about movie ratings on the Fandago website. We have to prove that Fandago inflated film ratings in 2015 for its own benefit in order to sell more tickets.
+
+Цель проекта — исследование данных на основе статьи Fivethirtyeight.com о рейтингах фильмов на сайте компании Fandago. Нам предстоит доказать факт завышения рейтингов фильмов компанией Fandago в 2015 году для своей выгоды, чтобы продать больше билетов.
+
+
