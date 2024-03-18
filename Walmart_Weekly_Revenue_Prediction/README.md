@@ -1,2 +1,11 @@
+## Walmart Weekly Revenue Prediction
 
-![inbox_16192307_cffdbe90e777479a7cfca50b15a20f4e_Walmart5-scaled-1](https://github.com/PMikhail1681/PET_Projects/assets/136488242/629b4936-1c09-43e4-83df-c588fd323ccf)
+## Прогноз еженедельного дохода Walmart 
+
+This project is based on the 'Walmart Sales' dataset. I took the dataset from the Kaggle platform.
+The goal of the project was to analyze the available data and build a model that could predict weekly sales with high accuracy.
+
+Этот проект сделан на базе датасета 'Walmart Sales'. Датасет взят мною с платформы Kaggle.
+Цель проекта проанализировать доступные данные и построить модель, которая могла бы с высокой точностью прогнозировать еженедельные продажи.
+
+
